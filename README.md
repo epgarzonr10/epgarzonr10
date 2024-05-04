@@ -6,9 +6,6 @@ Constantemente estoy aprendiendo nuevas cosas y me encanta enfrentar nuevos desa
 
 Soy de mente abierta y estoy buscando oportunidades para colaborar en proyectos interesantes y aprender de otros desarrolladores talentosos. Si tienes alguna pregunta sobre programación, desarrollo web o simplemente quieres charlar sobre tecnología, no dudes en contactarme.
 
-
-![Mi imagen](epgarzonr10-image.jpg)
-
 - 🔭 Actualmente estoy trabajando en: Un proyecto web utilizando Node.js y React.
 - 🌱 Estoy aprendiendo: Desarrollo web avanzado y principios de diseño UX/UI.
 - 👯 Estoy buscando colaborar en: Proyectos de código abierto relacionados con la educación o el desarrollo sostenible.

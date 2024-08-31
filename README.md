@@ -11,5 +11,4 @@ Soy de mente abierta y estoy buscando oportunidades para colaborar en proyectos 
 - 👯 Estoy buscando colaborar en: Proyectos de código abierto relacionados con la educación o el desarrollo sostenible.
 - 💬 Pregúntame sobre: Python, desarrollo web, bases de datos o cualquier tema relacionado con la tecnología.
 - 📫 Cómo contactarme: Puedes enviarme un correo electrónico a [epgarzonr@uce.edu.ec].
-- 😄 Pronombres: Él/él
 - ⚡ Dato curioso: Me encanta explorar la naturaleza y hacer senderismo en mis tiempos libres.
